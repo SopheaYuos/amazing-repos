@@ -1,6 +1,6 @@
-# amazing-repos
-Collection of selected and amazing repos or libraries
+# 🌟 Amazing Repos  
+*A curated collection of selected and amazing repositories or libraries.*
 
-#Frotend
- 1) React
-    - Drag and Drop: https://github.com/clauderic/dnd-kit
+## 🚀 Frontend  
+### ⚛️ React  
+- **Drag and Drop**: [dnd-kit](https://github.com/clauderic/dnd-kit) – A modern, lightweight, and accessible drag-and-drop toolkit for React.  
