@@ -1,2 +1,2 @@
 # amazing-repos
-Collection of selected and amazing repos or library
+Collection of selected and amazing repos or libraries
